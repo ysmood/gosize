@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ysmood/gosize.svg)](https://travis-ci.org/ysmood/gosize)
+
 Recursively calculate the memory size of any thing in Go.
 
 The private member will be ignored, because currently its not possible
